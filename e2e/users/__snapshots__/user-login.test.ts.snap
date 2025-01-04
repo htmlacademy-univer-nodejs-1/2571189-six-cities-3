@@ -1,7 +1,0 @@
-// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
-
-exports[`POST /users/login > Invalid password or email 1`] = `
-{
-  "error": "Unauthorized",
-}
-`;

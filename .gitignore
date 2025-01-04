@@ -5,9 +5,9 @@
 /dist/
 /docs/
 .idea/*
-/upload/
+/static/
 
 .DS_Store
 coverage
 *.log
-*.env
+.env
